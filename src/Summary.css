@@ -1,0 +1,15 @@
+.summary-container {
+  background-color: #ccccff;
+}
+
+.summary-title {
+  text-align: center;
+}
+
+.summary-month {
+  width: 100px;
+}
+
+.summary-sum {
+  text-align: right;
+}
