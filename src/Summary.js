@@ -30,8 +30,8 @@ function formatNumber(number) {
 const Summary = ({ data }) => {
   return (
     <div className="summary-container">
-      <p className="summary-title">Summary</p>
-      <table>
+      <p className="summary-title">Сводка</p>
+      <table className="summary-table">
         {data.map((monthData) => {
           return (
             <tr>
